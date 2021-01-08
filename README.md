@@ -1,5 +1,7 @@
 # kikagaku-public-issues
 
+![kikagaku-issues](kikagaku-issues.jpg)
+
 https://www.kikagaku.ai
 
 この度は「キカガク」へご登録し、学習を進めていただき誠にありがとうございます。  
