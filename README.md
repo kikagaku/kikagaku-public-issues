@@ -10,10 +10,18 @@
 
 ## 手順
 
+**Step 1**
+
 ![procedure_01](images/procedure_01.png)
 
 
 
+**Step 2**
+
 ![procedure_02](images/procedure_02.png)
+
+
+
+**Step 3**
 
 ![procedure_03](images/procedure_03.png)
