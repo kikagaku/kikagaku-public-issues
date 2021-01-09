@@ -12,6 +12,8 @@ https://www.kikagaku.ai
 
 それでは、皆様からの e-ラーニングプラットフォーム「キカガク」への Issues をお待ちしております！
 
+- [Issues を書き込む](https://github.com/kikagaku/kikagaku-public-issues/issues)
+
 ## Issues の取り扱いについて
 
 原則、投稿を頂いた内容から順に対応していきます。  
