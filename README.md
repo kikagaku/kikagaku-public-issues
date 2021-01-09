@@ -1,20 +1,19 @@
-# kikagaku-public-issues
+# 質問を随時受け付けています
 
-![kikagaku-issues](kikagaku-issues.jpg)
+![kikagaku-issues](images/kikagaku-issues.jpg)
 
-https://www.kikagaku.ai
+質問事項や Typo に関する問い合わせはこちらの **Issues** で受け付けていますので、お気軽にお問い合わせください。対応が必要な Issue に関して順次対応いたします。なお、テストの質問に対する解答は対応いたしかねますので、ご了承ください。
 
-この度は「キカガク」へご登録し、学習を進めていただき誠にありがとうございます。  
-「キカガク」に携わっているメンバー全員から、皆様へ心より感謝申し上げます。  
+みなさまと一緒に、キカガクをより良い学習プラットフォームにできるようキカガク社員一同尽力してまいります。
 
-学習を進めていく中で、疑問点や表記ミス、テストの回答ミスなどがあった場合、お手数ですがこちらのレポジトリへ Issues として投稿いただければ幸いです。  
-より良い学習プラットフォームになるように、皆様と一緒にキカガクを進化させていきたいと思っております。  
 
-それでは、皆様からの e-ラーニングプラットフォーム「キカガク」への Issues をお待ちしております！
 
-- [Issues を書き込む](https://github.com/kikagaku/kikagaku-public-issues/issues)
+## 手順
 
-## Issues の取り扱いについて
+![procedure_01](images/procedure_01.png)
 
-原則、投稿を頂いた内容から順に対応していきます。  
-Issues によっては対応に時間がかかることもあるかと存じますが、しっかりとアップデートしていきますので、お待ちしていただければ幸いです。
+
+
+![procedure_02](images/procedure_02.png)
+
+![procedure_03](images/procedure_03.png)
